@@ -4,7 +4,7 @@ A simple web application created using flask which helps users to shorten URLs i
 
 ### Other functionalities:
 
-- Working with page templates in Flash with Jinja
+- Working with page templates in Flask with Jinja
 - Using GET and POST requests in Flask
 - Setting up an API in Flask
 - Templating flask with Bootstrap
